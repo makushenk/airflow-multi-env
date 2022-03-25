@@ -1,4 +1,15 @@
 {
-  "dag_1": ["alpha", "beta", "gamma"],
-  "dag_2": ["beta", "lambda"]
+    "data": {
+        "DAGS_ENVS_LIST": {
+            "dag_1": [
+                "alpha",
+                "beta",
+                "gamma"
+            ],
+            "dag_2": [
+                "beta",
+                "lambda"
+            ]
+        }
+    }
 }
