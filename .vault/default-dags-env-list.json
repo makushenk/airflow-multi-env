@@ -1,0 +1,4 @@
+{
+  "dag_1": ["alpha", "beta", "gamma"],
+  "dag_2": ["beta", "lambda"]
+}
