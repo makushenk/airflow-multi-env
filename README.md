@@ -1,4 +1,23 @@
 
+# How to use
+
+1. Build docker containers
+    ```shell
+    make build
+    ```
+2. Run docker containers
+    ```shell
+    make start
+    ```
+3. Setup Vault (see instructions below)
+4. Run DAGs
+    ```shell
+    make run-1
+    ```
+    ```shell
+    make run-2
+    ```
+
 ## Vault
 
 By default Vault is available at http://localhost:8200
