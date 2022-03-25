@@ -1,8 +1,6 @@
 
 ## Vault
 
----
-
 By default Vault is available at http://localhost:8200
 
 Follow instructions below to set up Vault
